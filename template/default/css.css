@@ -1,0 +1,51 @@
+#misnoticias_last h2 {
+	text-transform: lowercase;
+}
+
+#misnoticias_last .item .title {
+	margin-left: 20px;
+	font-size: 11px;
+	color: #EE8907;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#misnoticias_last .item .more {
+	font-size: 11px;
+	color: #f00;
+	font-weight: bold;
+	text-decoration: none;
+	float: right;
+}
+
+#misnoticias_last .all a {
+	font-size: 10px;
+	color: #f00;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: lowercase;
+	float: right;
+}
+
+#misnoticias #nav {
+	text-align: right;
+	margin-right: 40px;
+	margin-bottom: 2em;
+}
+
+#misnoticias .item {
+	margin-bottom: 2em;
+}
+
+#misnoticias .item .more {
+	text-align: right;
+	margin-right: 40px;
+}
+
+#misnoticias .info {
+	font-size: 11px;
+	color: #797B7A;
+	margin-top: -30px;
+	text-align: right;
+	margin-right: 40px;
+}
