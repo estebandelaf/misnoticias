@@ -1,0 +1,5 @@
+MiGaLeRiA
+DeLaF
+Publicado proyecto MiGaLeRiA versión 6.0.1
+Se cambio la forma en que se cargan las plantillas: se elimino la clase Plantilla y se llevo el método generar a la clase MiGaLeRiA, además ahora se debe pasar la extensión de las plantillas.
+Además se eliminaron los atributos estáticos de la clase MiGaLeRiA y se modificaron los archivos de plantillas web1.html y web1-inc.html quitando la variable template.

@@ -1,0 +1,5 @@
+MiInTrAnEt
+DeLaF
+Suspendido snapshot de domingo 8.
+Debido a cambios en la red y servidores que hostean el Proyecto Mi no se pudo liberar el snapshot correspondiente a la semana pasada.
+Por lo anterior los cambios realizados serán acumulados y entregados en la nueva versión este domingo 15 de mayo.

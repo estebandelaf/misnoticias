@@ -1,0 +1,4 @@
+MiInTrAnEt
+DeLaF
+Publicado tercer snapshot de MiInTrAnEt 
+Se ha publicado el tercer snapshot, este viene con importantes cambios: se agregó informe de stock, biblioteca TinyMCE y posibilidad de generación de mapas mediante OpenLayers y OpenStreetMap.

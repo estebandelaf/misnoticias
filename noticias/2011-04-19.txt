@@ -1,0 +1,6 @@
+MiInTrAnEt
+DeLaF
+Publicado primer snapshot de MiInTrAnEt.
+Se ha publicado el primer snapshot de la Intranet, desde ahora se publicarán snapshots todos los días domingo en la noche.
+Además se publicaron capturas de la aplicación más un demo de la misma.
+Pueden encontrar toda la información en la <a href="http://mi.delaf.cl/proyectos/miintranet/">página del proyecto</a>.

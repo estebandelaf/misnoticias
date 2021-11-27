@@ -1,0 +1,5 @@
+MiSjUeGoS
+DeLaF
+Publicado proyecto MiSjUeGoS
+Se ha publicado un nuevo proyecto que contempla diferentes juegos (sencillos, MUY sencillos) que he desarrollado a modo de práctica en el lenguaje C y diferentes herramientas.
+Los programas los hice utilizando SDL y puedes encontrar más información en la <a href="http://mi.delaf.cl/proyectos/misjuegos">página del proyecto</a>.
